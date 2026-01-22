@@ -1,6 +1,10 @@
 table Table
 	lineageTag: 4a57747b-c5a9-4f8d-9302-46a7df80b58d
 
+	measure Measure = BLANK()
+		formatString: 0
+		lineageTag: eee81d13-232f-42f0-a139-27700fb09202
+
 	column Column1
 		dataType: string
 		lineageTag: 46bdd799-4d7b-41b4-b631-16d7dcb096ec
